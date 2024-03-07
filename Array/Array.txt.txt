@@ -1,0 +1,1 @@
+This folder Contains only Array problems from LeetCode plateform
